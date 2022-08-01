@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TAKBEDILNDASMU
+- 👋 Hi, I’m @titanaprilian
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
