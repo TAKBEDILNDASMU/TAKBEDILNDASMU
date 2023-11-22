@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titan-apriliyan-73046623b/)
 
 # 📊 GitHub Stats:
-![TAKBEDILNDASMU's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKBEDILNDASMU&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![TAKBEDILNDASMU's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKBEDILNDASMU&theme=dracula&show_icons=true&hide_border=false&layout=compact)<br/>
 ![TAKBEDILNDASMU's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAKBEDILNDASMU&theme=dracula&hide_border=false)
 
 # 💻 Tech Stack:
